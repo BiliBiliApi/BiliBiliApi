@@ -2,7 +2,7 @@
 
 <p align="center">哔哩哔哩 NodeJS 版 API</p>
 
-<p align="center"><Badge type="tip" text="版本号：^1.0.0-alpha.01" /> <Badge type="info" text="更新时间：2023.05.12" /> <Badge type="warning" text="版本类型：Beta" /></p>
+<p align="center"><Badge type="tip" text="版本号：^1.0.0-alpha.02" /> <Badge type="info" text="更新时间：2023.05.14" /> <Badge type="warning" text="版本类型：Alpha" /></p>
 
 <p align="center" style="display: flex;justify-content: center;">
 <a href="https://github.com/yisailly/BiliBiliApi/issues" style="text-decoration:none">
@@ -84,7 +84,7 @@ v1.0.0-alpha.02 加入了 Vercel 配置文件,可以直接在 Vercel 下部署�
 
 # 更新日志
 
-[changelog](https://github.com/BiliBiliApi/BiliBiliApi/blob/master/CHANGELOG.MD)
+[changelog](https://github.com/BiliBiliApi/BiliBiliApi/blob/master/CHANGELOG.md)
 
 # License
 
