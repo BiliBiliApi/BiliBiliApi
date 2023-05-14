@@ -32,8 +32,60 @@
 
 > 为使用方便，降低门槛，数据传输安全，本项目仅支持 POST 方法。
 
+# 部署
+
+## 环境要求
+
+需要 NodeJS 12+ 环境
+
+## 安装
+
+```shell
+$ git clone git@github.com:BiliBiliApi/BiliBiliApi.git
+$ cd BiliBiliApi
+$ npm install
+```
+
+或者
+
+```shell
+$ git clone https://github.com/BiliBiliApi/BiliBiliApi.git
+$ cd BiliBiliApi
+$ npm install
+```
+
+## 运行
+调用前务必阅读文档的`调用前须知`
+
+```shell
+$ node app.js
+```
+
+服务器启动默认端口为 3000
+
+## Vercel 部署
+
+v1.0.0-alpha.02 加入了 Vercel 配置文件,可以直接在 Vercel 下部署了,不需要自己的服务器
+
+### 操作方法
+
+1. fork 此项目
+2. 在 Vercel 官网点击 `New Project`
+3. 点击 `Import Git Repository` 并选择你 fork 的此项目并点击`import`
+4. 点击 `PERSONAL ACCOUNT` 的 `select`
+5. 直接点`Continue`
+6. `PROJECT NAME`自己填,`FRAMEWORK PRESET` 选 `Other` 然后直接点 `Deploy` 接着等部署完成即可  
+
 # 鸣谢
 
 你们的存在，让社区更美好！
 
 [![contributors](https://opencollective.com/bilibiliapi/contributors.svg?width=860&button=false)](https://github.com/yisailly/BiliBiliApi/graphs/contributors)
+
+# 更新日志
+
+[changelog](https://github.com/BiliBiliApi/BiliBiliApi/blob/master/CHANGELOG.MD)
+
+# License
+
+[The MIT License (MIT)](https://github.com/BiliBiliApi/BiliBiliApi/blob/master/LICENSE)
