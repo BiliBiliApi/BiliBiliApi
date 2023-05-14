@@ -1,1 +1,0 @@
-import{_ as t,o as d,c as e,O as r}from"./chunks/framework.9be35eee.js";const l=JSON.parse('{"title":"获取用户大会员状态","description":"","frontmatter":{},"headers":[],"relativePath":"api/get_vip.md","filePath":"api/get_vip.md"}'),o={name:"api/get_vip.md"},a=r("",11),p=[a];function n(s,_,c,h,i,m){return d(),e("div",null,p)}const b=t(o,[["render",n]]);export{l as __pageData,b as default};
