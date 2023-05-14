@@ -1,0 +1,1 @@
+import{_ as t,o as d,c as e,O as r}from"./chunks/framework.9be35eee.js";const b=JSON.parse('{"title":"获取用户个人TAG","description":"","frontmatter":{},"headers":[],"relativePath":"api/get_tag.md","filePath":"api/get_tag.md"}'),a={name:"api/get_tag.md"},o=r("",15),h=[o];function s(c,n,p,_,g,i){return d(),e("div",null,h)}const m=t(a,[["render",s]]);export{b as __pageData,m as default};

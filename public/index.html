@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>home</title>
+</head>
+
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/axios@0.26.1/dist/axios.min.js"></script>
+    <script>
+        const phone = '366c3f4db4ce8b78993d84b03708ea02'
+
+        async function login() {
+            const res = await axios({
+                url: `/login/qrcode?key=${phone}`,
+            })
+            console.log(res.data);
+        }
+
+        login()
+    </script>
+</body>
+
+</html>
