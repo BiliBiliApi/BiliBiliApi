@@ -13,7 +13,7 @@ hero:
       link: /guide/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/BiliBiliApi/BiliBiliApi
 features:
     - title: 基于 NodeJS
       details: 项目基于 NodeJS 进行开发，保护底层代码安全，加快接口速度。
