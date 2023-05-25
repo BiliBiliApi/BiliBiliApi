@@ -5,7 +5,7 @@
     "lastupdatetime": "2023.5.14",
     "main": "index.js",
     "bin": "index.js",
-    "repository": "https://github.com/yisailly/BiliBiliApi",
+    "repository": "https://github.com/BiliBiliApi/BiliBiliApi",
     "author": "Yisailly",
     "license": "MIT",
     "keywords": [

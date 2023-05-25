@@ -19,7 +19,7 @@ export default defineConfig({
         },
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/yisailly/BiliBiliApi' }
+            { icon: 'github', link: 'https://github.com/BiliBiliApi/BiliBiliApi' }
         ],
 
         nav: [

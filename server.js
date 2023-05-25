@@ -37,11 +37,6 @@ async function serveBiliApi() {
         next();
     });
 
-    app.get("/wc", (req, res) => {
-        console.log(req.body);
-        res.send("wc")
-    })
-
     app.listen(port, host, () => {
         console.log(chalk.italic.gray(`---- ${packageJSON.name}.${packageJSON.description} ----`));
         console.log(`server running @ http://${host ? host : 'localhost'}:${port}`)

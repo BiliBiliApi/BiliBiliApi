@@ -7,19 +7,19 @@
 <p align="center"><Badge type="tip" text="版本号：^1.0.0-alpha.02" /> <Badge type="info" text="更新时间：2023.05.14" /> <Badge type="warning" text="版本类型：Alpha" /></p>
 
 <p align="center" style="display: flex;justify-content: center;">
-<a href="https://github.com/yisailly/BiliBiliApi/issues" style="text-decoration:none">
-        <img src="https://img.shields.io/github/issues/yisailly/BiliBiliApi.svg" alt="GitHub issues"/>
+<a href="https://github.com/BiliBiliApi/BiliBiliApi/issues" style="text-decoration:none">
+        <img src="https://img.shields.io/github/issues/BiliBiliApi/BiliBiliApi.svg" alt="GitHub issues"/>
 </a>
 &nbsp;
-<a href="https://github.com/yisailly/BiliBiliApi/stargazers" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/stars/yisailly/BiliBiliApi.svg" alt="GitHub stars"/>
+<a href="https://github.com/BiliBiliApi/BiliBiliApi/stargazers" style="text-decoration:none" >
+        <img src="https://img.shields.io/github/stars/BiliBiliApi/BiliBiliApi.svg" alt="GitHub stars"/>
 </a>
 &nbsp;
-<a href="https://github.com/yisailly/BiliBiliApi/network" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/forks/yisailly/BiliBiliApi.svg" alt="GitHub forks"/>
+<a href="https://github.com/BiliBiliApi/BiliBiliApi/network" style="text-decoration:none" >
+        <img src="https://img.shields.io/github/forks/BiliBiliApi/BiliBiliApi.svg" alt="GitHub forks"/>
 </a>
 &nbsp;
-<a href="https://github.com/yisailly/BiliBiliApi/blob/master/LICENSE" style="text-decoration:none" >
+<a href="https://github.com/BiliBiliApi/BiliBiliApi/blob/master/LICENSE" style="text-decoration:none" >
         <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="GitHub license"/>
 </a>
 </p>
