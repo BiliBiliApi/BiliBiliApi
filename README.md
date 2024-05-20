@@ -1,3 +1,4 @@
+本项目会尽快重写
 <h1 align="center">BiliBiliApi</h1>
 
 <p align="center">哔哩哔哩 NodeJS 版 API</p>
